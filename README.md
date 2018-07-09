@@ -1,1 +1,2 @@
 # FaceNormAnalysis
+output face norm
